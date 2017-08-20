@@ -12,6 +12,14 @@ A Deceptive opinion spam is a review with fictitious opinions which is deliberat
 * Tensorflow
 * Numpy
 
+## Dataset
+We will use [the first publicly available gold standard corpus of deceptive opinion spam](http://myleott.com/op_spam/). The dataset consists of truthful and deceptive hotel reviews of 20 Chicago hotels. It contains: 
+
+* 400 truthful positive reviews from TripAdvisor
+* 400 deceptive positive reviews from Mechanical Turk
+* 400 truthful negative reviews from Expedia, Hotels.com, Orbitz, Priceline, TripAdvisor and Yelp
+* 400 deceptive negative reviews from Mechanical Turk.
+
 ## References
 [Document representation and feature combination for deceptive spam review detection](http://www.sciencedirect.com/science/article/pii/S0925231217303983)
 
